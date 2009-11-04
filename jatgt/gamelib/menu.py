@@ -40,7 +40,7 @@ def run_menu():
                 GB_SCREEN_COLOR, whitefont)
             box.set_dialog([
                 "johnny the adventurer discovered a huge tower,",
-                "and, being the manly man he is, must explare it!",
+                "and, being the manly man he is, must explore it!",
                 "can you help him climb the perilous tower??"
             ])
             box.set_scrolldelay(2)

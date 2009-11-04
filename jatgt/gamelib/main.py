@@ -6,5 +6,5 @@ from retrogamelib.constants import *
 import menu
 
 def main():
-    display.init(2.5, "BubbMan", res=GBRES)
+    display.init(2.5, "Johnny Ashtray and The Greyscale Tower", res=GBRES)
     menu.run_menu()
