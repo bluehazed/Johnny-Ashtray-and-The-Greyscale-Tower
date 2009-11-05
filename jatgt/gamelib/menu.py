@@ -1,8 +1,5 @@
 #! /usr/bin/env python
 
-# Gamebub - a GameBoy type platformer
-# All code and assets are Copyright (C) 2009.
-
 import pygame
 import os
 import sys
